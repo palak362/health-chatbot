@@ -1,5 +1,5 @@
 import streamlit as st
-import google.generativeai as genai
+import google.genai as genai
 
 # Page config
 st.set_page_config(page_title="Health Assistant Bot", page_icon="🩺")
